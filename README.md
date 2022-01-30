@@ -1,7 +1,7 @@
 # Read-Me-Gen
 Read me generator
 # Description
-This project creates read me for easily through the terminal to be able to copy and paste on to your projects.
+This project creates read me easily through the terminal to be able to copy and paste onto your projects.
 
 # Demo Video
 https://watch.screencastify.com/v/0Xppgja8BD8HVNbetUm4
